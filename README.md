@@ -9,8 +9,7 @@
 
 **Approach**: We created a data pipeline to cleanse, feature engineer, model, and score 10 classification models and choose the best model based on test ROC AUC and F2 scores.
 
-**Results**: 
-- Based on much experimentation, a random forest model perfomed the best with a Test ROC AUC of 85%. This model was used to predict customer prediction probabilities on an unseen dataset, which was provided to the client as a final deliverable.
+**Results**: Based on much experimentation, a random forest model perfomed the best with a Test ROC AUC of 85%. This model was used to predict customer prediction probabilities on an unseen dataset, which was provided to the client as a final deliverable.
 
 
 ## Key skills being practiced in this project
